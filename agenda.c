@@ -48,5 +48,4 @@ printf("O telefone do contato e': %s\n",contato[c].telefone);
 printf("O programa Agenda será encerrado.");
 
 return 0;
-
 }
